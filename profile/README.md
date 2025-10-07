@@ -50,6 +50,15 @@ View details: [Roadmap →](https://github.com/atriva-ai-community/community/blo
 
 ---
 
+## License
+
+This repository is licensed under the [Apache License 2.0](./LICENSE).
+
+All content in this repository — including code, documentation, and files under
+`.github/` and `community/` — is released under this license unless stated otherwise.
+
+---
+
 ## 💬 Join the Mission
 **Atriva AI Community** is where ideas meet implementation.  
 Let’s make AI products more **accessible, practical, and open** for everyone.
